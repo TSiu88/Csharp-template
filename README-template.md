@@ -1,13 +1,17 @@
 # _Assignment Name_
 
-<!-- ![LastCommit](https://img.shields.io/github/last-commit/tsiu88/wordcounter-csharp)
-![Languages](https://img.shields.io/github/languages/top/tsiu88/wordcounter-csharp)
-[![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://lbesson.mit-license.org/) -->
-
 #### _Brief desc of Project, 02.6.2020_
 <!-- ##### _Version 1.1 Updated 01.11.2020_ -->
 
 #### By _**Tiffany Siu**_
+
+<!-- [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) -->
+<!-- [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) -->
+<!-- [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip) -->
+<!-- ![LastCommit](https://img.shields.io/github/last-commit/tsiu88/wordcounter-csharp)
+![Languages](https://img.shields.io/github/languages/top/tsiu88/wordcounter-csharp)
+[![MIT license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://lbesson.mit-license.org/) -->
+
 ---
 ## Table of Contents
 1. [Description](#description)
