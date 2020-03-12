@@ -14,10 +14,10 @@ namespace ProjectName.Controllers
     }
 
     [HttpGet("/items/new")]
-    public ActionResult Form() { return View(); }
+    public ActionResult New() { return View(); }
 
     [HttpPost("/items")]
-    public ActionResult Form(string param) 
+    public ActionResult Create(string param) 
     { 
       Item myItem = new Item(param);
       return RedirectToAction("Index"); 
