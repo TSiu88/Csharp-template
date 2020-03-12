@@ -5,8 +5,12 @@ using System;
 namespace ProjectName.Tests
 {
   [TestClass]
-  public class ItemTests
+  public class ItemTests : IDisposable
   {
+    public void Dispose()
+    {
+      Item.ClearAll();
+    }
     // Test methods go here
     [TestMethod]
     public void ItemConstructor_CreatesInstanceOfItem_Item()
